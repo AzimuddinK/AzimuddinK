@@ -14,7 +14,6 @@ Python (or other relevant programming language)
 - 👀 I’m interested in Cybersecurity and Airtificial Intelligence
 - 🌱 I’m currently learning pernetration testing and some ML models for my next project
 - 💞️ I’m looking to collaborate on open source projects related to digital forensics, Cybersecurity and ML
-- ⚡ Fun fact: ...
 
 <!---
 AzimuddinK/AzimuddinK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
